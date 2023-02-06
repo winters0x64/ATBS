@@ -1,0 +1,11 @@
+.section .text 
+    .intel_syntax noprefix 
+    .global _start 
+    _start :
+        mov al, dil
+        mov bx, si
+
+
+
+here we can only transfer data between 2 like sized registers, so we use the last 8 bit register of rax and rdx
+similarily for 65536 we use the last 16 bit register

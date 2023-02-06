@@ -1,0 +1,4 @@
+mysql root password -> arun360360
+
+admin_username -> admin
+admin_password -> root

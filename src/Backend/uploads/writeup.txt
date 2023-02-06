@@ -1,0 +1,1 @@
+So first i had to make a python script (i don't have it rn as i changed my distro) so a signature is used to verify the integrity of a message, it follows the following encryption mechanism s = m^e % n and decrypted as follows m = s^d%n, hence we'll get the flag
